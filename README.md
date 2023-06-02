@@ -4,7 +4,6 @@
 
 - ⚡ Fun fact **I've seen things you people wouldn't believe.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
