@@ -2,7 +2,7 @@
 <h3 align="center">Data analyst and instructor.</h3>
 
 
-- ⚡ Fun fact **The concept of fun is surprisingly difficult to pin down or define.**
+- ⚡ Fun fact: **The concept of fun is surprisingly difficult to pin down or define.**
 
 <p align="left">
 </p>
