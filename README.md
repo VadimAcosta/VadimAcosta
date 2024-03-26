@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vadim Acosta</h1>
 <h3 align="center">Data analyst and instructor.</h3>
-<img align="right" alt="Coding" width="150" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-- ⚡ Fun fact **I've seen things you people wouldn't believe.**
+
+- ⚡ Fun fact **The concept of fun is surprisingly difficult to pin down or define.**
 
 <p align="left">
 </p>
